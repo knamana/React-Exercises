@@ -14,3 +14,7 @@
 - State Management
 - Form Handling
 - Component based structure(eg: smaller components like `PhoneBookForm`, `InformationTable`)
+
+### Todo
+- Can add validation to phone number
+- Can add validation for empty values
