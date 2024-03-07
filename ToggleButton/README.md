@@ -6,7 +6,8 @@
 ### Overview
 - This project displays a default favorite programming language which is the first language in the languages array.
 - When clicked on the toggle button it will shows a list of languages from the languages array.
-<img width="457" alt="Screen Shot 2024-03-07 at 5 16 55 PM" src="https://github.com/knamana/React-Exercises/assets/125932021/e9a0ae04-f6b2-44bc-80b7-157a9d386f84">
+<img width="234" alt="Screen Shot 2024-03-07 at 5 34 23 PM" src="https://github.com/knamana/React-Exercises/assets/125932021/4b89a92d-99a7-4686-a74f-5232d76c0650">
+
 
 ### Takeaways
 - Context API
